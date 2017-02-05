@@ -1,3 +1,0 @@
-[submodule "Submodules/FFmpeg-iOS"]
-	path = Submodules/FFmpeg-iOS
-	url = https://github.com/Arlem/FFmpeg-iOS.git
